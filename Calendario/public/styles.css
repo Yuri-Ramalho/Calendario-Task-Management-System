@@ -1,0 +1,13 @@
+.calendar-cell {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.highlight {
+  background-color: #ffcccc;
+}
+
+.task-button {
+  margin-top: 5px;
+}
